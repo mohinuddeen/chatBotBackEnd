@@ -1,0 +1,4 @@
+django
+django-chatbot
+wikipedia
+django-rest-auth-bearer
