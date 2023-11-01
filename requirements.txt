@@ -1,4 +1,5 @@
-django
-django-chatbot
-wikipedia
-django-rest-auth-bearer
+Django==4.2.5
+django-chatbot==0.0.2.3
+wikipedia==1.4.0
+django-rest-auth-bearer==0.1.1
+djangorestframework==3.14.0
